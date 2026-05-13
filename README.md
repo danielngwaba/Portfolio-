@@ -1,125 +1,113 @@
- About Me
+ Daniel Ngwaba – Data Analytics Portfolio
 
-I'm a recent graduate with a background in **education and agricultural management**. I'm now focused on building data analytics skills and solving real-world problems with data. I'm learning:
-- **Excel** (pivot tables, VLOOKUP, data cleaning)
-- **Power BI** (dashboards, DAX formulas, visualizations)
-- **Data Analysis** (exploratory analysis, insights, storytelling)
+## About Me
 
-I'm eager to work on meaningful projects and learn from experienced professionals.
+Hi, I'm Daniel. I create Excel and Power BI dashboards that turn raw data into actionable insights. I focus on clear visuals, key metrics, and business recommendations.
 
+**Tools I use:** Microsoft Excel (Pivot Tables, Charts, Slicers), Power BI, Data Cleaning, Dashboard Design
 
-🎯 My Projects
- Project 1: Capstone Project – Logistics & Profitability Analysis
-**Tools:** Excel | Power BI
+---
 
-**What I Did:**
-- Analyzed 85,000+ transportation trips to identify profitability patterns
-- Calculated total profit, safety metrics (DOT violations), and route performance
-- Created visualizations to highlight the most profitable route
+## Projects Overview
 
-**Key Findings:**
-- Total profit: $170.70M | Total trips analyzed: 85K
-- Safety insight: 39 DOT violations (22.94% of routes)
-- Top performer: Philadelphia Seafood route ($8.52M profit)
+| # | Project | Key Metric | Top Insight |
+|---|---------|------------|--------------|
+| 1 | Logistics Capstone | $170.70M profit | Philadelphia Seafood route = $8.52M |
+| 2 | TSA Sales Dashboard | $1M revenue | Apple top brand, January peak |
+| 3 | Teen Mental Health | 2.58% depression rate | TikTok users have most anxiety |
+| 4 | Excel Sales Dashboard | Revenue by sales rep | Peter top performer at ~438M |
 
-**What I Learned:**
-- How to work with large datasets and find meaningful patterns
-- Importance of data cleaning and validation
-- How visualizations help communicate findings
+---
 
-Project 2: Sales Dashboard – TSA Sales Analysis
-**Tools:** Excel | Power BI | DAX
+## Project 1: Logistics Capstone Dashboard
 
-**What I Did:**
-- Built an interactive sales dashboard from transaction data
-- Tracked revenue, profit, and customer metrics by brand and time period
-- Used DAX formulas to calculate key performance indicators
+**Goal:** Analyze logistics operations to find profitable routes and safety violations.
 
 **Key Metrics:**
-- Total Revenue: $1M | Profit: $310K | Customers: 250
-- Top brand: Apple | Peak sales month: January
+- Total profit: $170.70M
+- Total trips: 85,000
+- DOT violations: 39 incidents (22.94% of trips)
 
-**What I Learned:**
-- How to structure data for dashboard building
-- Using DAX to create calculated fields
-- Designing dashboards for clarity and usability
+**Top Performing Route:**
+- Philadelphia Seafood: $8.52M profit
 
-Project 3: Teen Mental Health Dashboard
-**Tools:** Power BI | Excel
+**Business Recommendation:**
+- Expand Philadelphia Seafood route capacity
+- Investigate cause of DOT violations to reduce risk
 
-**What I Did:**
-- Explored mental health survey data for teenagers
-- Identified at-risk age groups and social media patterns
-- Created visual dashboards to communicate findings
+**Files:** `Logistics-Capstone.xlsx` | `dashboard.png`
 
-**Key Insight:**
-- Depression rate: 2.58% | Highest risk age group: 15 years old
-- Notable finding: TikTok users showed higher anxiety levels
+---
 
-**What I Learned:**
-- How to ask meaningful questions from data
-- Importance of responsible data analysis on sensitive topics
-- Creating compelling visuals that drive understanding
-Project 4: Excel Sales Dashboard – Product & Regional Analysis
-**Tools:** Excel (Pivot Tables, Charts, Conditional Formatting)
-What I Did:**
-- Created a dynamic sales dashboard using pivot tables
-- Analyzed sales trends across regions and product categories
-- Used conditional formatting to highlight performance tiers
+## Project 2: TSA Sales Dashboard
 
-**What I Learned:**
-- Pivot tables are powerful for quick analysis and reporting
-- Design principles: keeping dashboards clean and actionable
-- How to tell a story with data
+**Goal:** Track sales revenue, profit, and brand performance to identify growth opportunities.
 
-💻 Technical Skills
+**Key Metrics:**
+- Revenue: $1,000,000
+- Profit: $310,000
+- Customers: 250
+- Profit margin: 31%
 
-**Tools I'm Learning:**
-- Microsoft Excel (Pivot Tables, VLOOKUP, INDEX/MATCH, conditional formatting, basic formulas)
-- Power BI (data visualization, DAX formulas, dashboard building)
-- Data Analysis (cleaning, exploration, insight discovery)
+**Top Performers:**
+- Brand: Apple
+- Month: January
 
-**Soft Skills:**
-- Problem-solving and analytical thinking
-- Clear communication of findings
-- Attention to detail with data accuracy
+**Business Recommendation:**
+- Increase Apple inventory before January
+- Study January peak drivers and replicate in other months
 
-🎓 Background
+**Files:** `TSA-Dashboard.xlsx` | `dashboard.png`
 
-- **Education:** Data Analytics learner (TS Academy )| Background in Education & Agricultural Management
-- **Experience:** Practical experience with real-world datasets
-- **Mindset:** Eager to learn, detail-oriented, committed to professional growth
+---
 
-What I'm Looking For
+## Project 3: Teen Mental Health Dashboard
 
-I'm actively seeking **internship opportunities** in data analytics where I can:
-- Apply my Excel and Power BI skills on real projects
-- Learn from experienced analysts and data professionals
-- Contribute to meaningful analysis and business decisions
-- Grow my technical and professional skills
+**Goal:** Understand depression and anxiety patterns among teenagers by age and social media usage.
 
-Let's Connect
+**Key Metrics:**
+- Depression rate: 2.58%
+- Highest risk age: 15 years old
 
-**GitHub:** [github.com/danielngwaba](https://github.com/danielngwaba)
+**Top Finding:**
+- TikTok users report the most anxiety compared to other platforms
 
-**Interested in working together or have questions about my projects?**
-- Open an issue on any repository
-- Check out my repositories below to see my code and analysis work
+**Business Recommendation:**
+- Consider mental health screening for age 15 students
+- Monitor social media impact, especially TikTok usage
 
-📁 Repository Structure
+**Files:** `Teen-Mental-Health.xlsx` | `dashboard.png`
 
-Each project includes:
-- **Data files** (sample/practice datasets)
-- **Analysis notebooks** or Excel files
-- **Dashboard files** (Power BI .pbix or Excel dashboards)
-- **README** explaining the project, methodology, and findings
+---
 
+## Project 4: Excel Sales Dashboard
 
-## 🌱 Learning Journey
+**Goal:** Track sales performance by sales rep, product, and month.
 
-I'm early in my data analytics career, and every project is a learning opportunity. I welcome feedback and suggestions for improvement. If you see something I can do better, feel free to reach out!
+**Key Metrics:**
+- Top sales rep: Peter (~438M revenue)
+- Most profitable product: Sofa Classic (~69M profit)
+- Customer count tracked: January to May
 
-**Current Focus:**
-- Strengthening DAX formula skills
-- Learning SQL for data querying
-- Improving data storytelling and visualization design
+**Charts Included:**
+- Revenue by Sales Rep (bar chart)
+- Customer Count by Month (line chart)
+- Profit by Product (pie chart)
+
+**Business Recommendation:**
+- Reward top reps like Peter
+- Focus marketing on Sofa Classic
+- Investigate monthly customer dips
+
+**Files:** `Sales-Dashboard.xlsx` | `dashboard.png`
+
+---
+
+## Contact
+
+- **GitHub:** [github.com/danielngwaba](https://github.com/danielngwaba)
+- **Email:** danielngwaba@gmail.com
+
+---
+
+*Last updated: May 2026*
